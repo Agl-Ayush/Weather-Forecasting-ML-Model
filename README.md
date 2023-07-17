@@ -8,3 +8,10 @@
 Agl-Ayush/Agl-Ayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+![newplot](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/22f42275-325b-47f7-afbf-0b0d433575c7)
+![newplot (2)](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/41b6f914-2002-4145-8774-82bb1c77385f)
+![newplot (3)](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/437fc1b0-8350-4e63-92dd-761b2d8f4fa6)
