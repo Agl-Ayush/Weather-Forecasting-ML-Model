@@ -9,6 +9,13 @@ Agl-Ayush/Agl-Ayush is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+I developed ML model that predicts temperature of given month of upcoming year.
+I have trained it with help of more than 50 years of weather Dataset of
+popular Indian cities from IMD.
+I implemented various visualizations charts for the analysis of data to
+infer the trends and patterns of seasonal data.
+
+
 
 
 
