@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology in Trend
 - ^-^ I’m currently learning more than 5+ stuffs
 - 💞️ I’m looking to collaborate on Open Source
-
+#Weather Forecasting ML model
 
 <!---
 Agl-Ayush/Agl-Ayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,7 @@ I implemented various visualizations charts for the analysis of data to
 infer the trends and patterns of seasonal data.
 
 
-
-
+#Screenshots
 
 ![newplot](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/22f42275-325b-47f7-afbf-0b0d433575c7)
 ![newplot (2)](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/41b6f914-2002-4145-8774-82bb1c77385f)
