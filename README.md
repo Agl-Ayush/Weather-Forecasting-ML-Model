@@ -15,8 +15,8 @@ popular Indian cities from IMD.
 I implemented various visualizations charts for the analysis of data to
 infer the trends and patterns of seasonal data.
 
-
-#Screenshots
+# Features 
+# Screenshots
 
 ![newplot](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/22f42275-325b-47f7-afbf-0b0d433575c7)
 ![newplot (2)](https://github.com/Agl-Ayush/weather-forecaster/assets/111176210/41b6f914-2002-4145-8774-82bb1c77385f)
